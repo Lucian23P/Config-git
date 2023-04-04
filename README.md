@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Justhaveluck
+- 👋 Hi, I’m @LNP97
 - 👀 I’m interested in C/C++
 - 🌱 I’m currently learning Git
 - 💞️ I’m looking to collaborate on C projects
